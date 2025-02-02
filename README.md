@@ -17,7 +17,7 @@ The book *Generative Deep Learning (2nd Edition)* explores various generative mo
 - **Chapter 4:**
   - GAN (Generative Adversarial Networks)
   - WGAN-GP (Wasserstein GAN with Gradient Penality)
-  - CGAN (conditioanl GAN)
+  - CGAN (conditional GAN)
 - **Chapter 5:**
   - LSTM (Long Short-Term memory network)
 - **Chapter 8:**
