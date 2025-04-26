@@ -20,6 +20,8 @@ The book *Generative Deep Learning (2nd Edition)* explores various generative mo
   - CGAN (conditional GAN)
 - **Chapter 5:**
   - LSTM (Long Short-Term memory network)
+- **Chapter 6:**
+  - RealNVP (Normalizing Flow Models)
 - **Chapter 8:**
   - DDM (Denoising Diffusion Models)
  
@@ -55,6 +57,9 @@ The book *Generative Deep Learning (2nd Edition)* explores various generative mo
 │   ├── 05_autoregressive/
 │   │   ├── 01_lstm/
 │   │   │   ├── lstm_pytorch.ipynb
+│   ├── 06_normflow/
+│   │   ├── 01_realnvp/
+│   │   │   ├── realnvp_pytorch.ipynb
 │   ├── 08_diffusion/
 │   │   ├── 01_ddm/
 │   │   │   ├── DDM_pytorch.ipynb
