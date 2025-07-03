@@ -1,3 +1,7 @@
+# This code is based on the code available for Generative deep learning - 2nd Edition book
+# The original code is available [here](https://github.com/davidADSP/Generative_Deep_Learning_2nd_Edition) and is licensed under the Apache License 2.0.
+# This implementation is distributed under the Apache License 2.0. See the LICENSE file for details._
+
 import numpy as np
 import matplotlib.pyplot as plt
 import torch
